@@ -1,0 +1,3 @@
+kryopackets.error.cantconnect=Cannot connect to kryo-server, try reconnecting! (or see logs for complete error)
+kryopackets.messages.connected=Successfully established connection with kryo-server!
+kryopackets.error.notconnected=Not connected to kryo-server. Please try reconnecting.
